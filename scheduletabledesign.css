@@ -1,0 +1,37 @@
+/*Header Code*/
+
+h1 {
+    text-align: center;
+}
+
+/* Table Code */
+table {
+    margin: 0 auto;
+    font-size: 50px;
+    border-collapse: collapse;
+}
+
+th.headertop {
+    color: rgb(92, 158, 216);
+    background-color:rgb(196, 236, 255);
+    border-style: solid;    
+}
+
+th.headerleft {
+    color:rgb(92, 158, 216);
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 2px;
+}
+
+td  {
+    border-style: solid;
+    border-width: 1px;
+}
+
+caption {
+    caption-side: bottom;
+    margin: 14px 0px;
+    font-size: 14px;
+    font-style: italic;
+  }
